@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 8b32494bdcc80e54ab9636fba7c2efbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -41084285418328597
+    second: rebellion_character_sprite_sheet_0
+  - first:
+      213: 8014077554032260510
+    second: rebellion_character_sprite_sheet_1
+  - first:
+      213: -8674073043790983411
+    second: rebellion_character_sprite_sheet_2
+  - first:
+      213: -2352190362810292008
+    second: rebellion_character_sprite_sheet_3
+  - first:
+      213: 196230617364053699
+    second: rebellion_character_sprite_sheet_4
+  - first:
+      213: 8923008238619696787
+    second: rebellion_character_sprite_sheet_5
+  - first:
+      213: -8588321292048453246
+    second: rebellion_character_sprite_sheet_6
+  - first:
+      213: 7206526779169861199
+    second: rebellion_character_sprite_sheet_7
+  - first:
+      213: 6062124302283380659
+    second: rebellion_character_sprite_sheet_8
+  - first:
+      213: 390885748727146720
+    second: rebellion_character_sprite_sheet_9
+  - first:
+      213: 8778235664798233446
+    second: rebellion_character_sprite_sheet_10
+  - first:
+      213: -6455840058543936926
+    second: rebellion_character_sprite_sheet_11
+  - first:
+      213: 2506044703949618639
+    second: rebellion_character_sprite_sheet_12
+  - first:
+      213: -1524210548483996892
+    second: rebellion_character_sprite_sheet_13
+  - first:
+      213: 2474017383181213128
+    second: rebellion_character_sprite_sheet_14
+  - first:
+      213: -2867132167440825841
+    second: rebellion_character_sprite_sheet_15
+  - first:
+      213: -6303499875638703763
+    second: rebellion_character_sprite_sheet_16
+  - first:
+      213: -6634191266466558436
+    second: rebellion_character_sprite_sheet_17
+  - first:
+      213: -6037565182440589578
+    second: rebellion_character_sprite_sheet_18
+  - first:
+      213: 2467252319344486729
+    second: rebellion_character_sprite_sheet_19
+  - first:
+      213: -7467284009930810673
+    second: rebellion_character_sprite_sheet_20
+  - first:
+      213: 4940295692701151603
+    second: rebellion_character_sprite_sheet_21
+  - first:
+      213: -3734041255644212025
+    second: rebellion_character_sprite_sheet_22
+  - first:
+      213: -7397933480492440672
+    second: rebellion_character_sprite_sheet_23
+  - first:
+      213: 6137577637794780047
+    second: rebellion_character_sprite_sheet_24
+  - first:
+      213: -7388170813316736902
+    second: rebellion_character_sprite_sheet_25
+  - first:
+      213: -5889315653517767692
+    second: rebellion_character_sprite_sheet_26
+  - first:
+      213: -6121193931454671657
+    second: rebellion_character_sprite_sheet_27
+  - first:
+      213: 7592386960582357941
+    second: rebellion_character_sprite_sheet_28
+  - first:
+      213: -1866028053780516070
+    second: rebellion_character_sprite_sheet_29
+  - first:
+      213: -6685506641715269385
+    second: rebellion_character_sprite_sheet_30
+  - first:
+      213: -3701866364912406119
+    second: rebellion_character_sprite_sheet_31
+  - first:
+      213: 4542538659468669973
+    second: rebellion_character_sprite_sheet_32
+  - first:
+      213: 2283960567038955824
+    second: rebellion_character_sprite_sheet_33
+  - first:
+      213: -8570901203861251406
+    second: rebellion_character_sprite_sheet_34
+  - first:
+      213: 6163019202407333559
+    second: rebellion_character_sprite_sheet_35
+  - first:
+      213: -6593200001799753641
+    second: rebellion_character_sprite_sheet_36
+  - first:
+      213: -3007118554585922771
+    second: rebellion_character_sprite_sheet_37
+  - first:
+      213: 3876130990226989583
+    second: rebellion_character_sprite_sheet_38
+  - first:
+      213: 2168832461506529197
+    second: rebellion_character_sprite_sheet_39
+  - first:
+      213: 2562129216970215094
+    second: rebellion_character_sprite_sheet_40
+  - first:
+      213: 6265497986077478617
+    second: rebellion_character_sprite_sheet_41
+  - first:
+      213: 1008325111804360270
+    second: rebellion_character_sprite_sheet_42
+  - first:
+      213: 1489390419191910315
+    second: rebellion_character_sprite_sheet_43
+  - first:
+      213: -8416373912913621436
+    second: rebellion_character_sprite_sheet_44
+  - first:
+      213: -8063699427536313322
+    second: rebellion_character_sprite_sheet_45
+  - first:
+      213: 4224639056340745104
+    second: rebellion_character_sprite_sheet_46
+  - first:
+      213: 4118196787931618291
+    second: rebellion_character_sprite_sheet_47
+  - first:
+      213: -8417620176978843769
+    second: rebellion_character_sprite_sheet_48
+  - first:
+      213: 3121897450009082881
+    second: rebellion_character_sprite_sheet_49
+  - first:
+      213: 1183496040542669793
+    second: rebellion_character_sprite_sheet_50
+  - first:
+      213: 4007348057202782415
+    second: rebellion_character_sprite_sheet_51
+  - first:
+      213: -1909722140201424069
+    second: rebellion_character_sprite_sheet_52
+  - first:
+      213: 5444648493728927940
+    second: rebellion_character_sprite_sheet_53
+  - first:
+      213: -295751230176355834
+    second: rebellion_character_sprite_sheet_54
+  - first:
+      213: 7881695374119034528
+    second: rebellion_character_sprite_sheet_55
+  - first:
+      213: 1263423678314168938
+    second: rebellion_character_sprite_sheet_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 810
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2ac16f0a0e6ff0800000000000000
+      internalID: -41084285418328597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 810
+        width: 133
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9536823319b73f60800000000000000
+      internalID: 8014077554032260510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 811
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0c0d16808f9780800000000000000
+      internalID: -8674073043790983411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 909
+        width: 115
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d86894d3575b5fd0800000000000000
+      internalID: -2352190362810292008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 914
+        width: 115
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3a02f4b629b200800000000000000
+      internalID: 196230617364053699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 913
+        width: 119
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9fc687b4e4db70800000000000000
+      internalID: 8923008238619696787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 911
+        width: 123
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281378aa94720d880800000000000000
+      internalID: -8588321292048453246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 912
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e62c08ce9b20460800000000000000
+      internalID: 7206526779169861199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 913
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71dd53fedf02450800000000000000
+      internalID: 6062124302283380659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 918
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e4a87484bc6500800000000000000
+      internalID: 390885748727146720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 926
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b6faf3de82d970800000000000000
+      internalID: 8778235664798233446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 650
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a60c7dbaf3866a0800000000000000
+      internalID: -6455840058543936926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 651
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7a22716247c220800000000000000
+      internalID: 2506044703949618639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 653
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42345bee49ae8dae0800000000000000
+      internalID: -1524210548483996892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 655
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd58acb3b9755220800000000000000
+      internalID: 2474017383181213128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 660
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0208930c76e538d0800000000000000
+      internalID: -2867132167440825841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 652
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6906dea2487588a0800000000000000
+      internalID: -6303499875638703763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 741
+        width: 102
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e034e413e9ee3a0800000000000000
+      internalID: -6634191266466558436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 745
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6bc587472463ca0800000000000000
+      internalID: -6037565182440589578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 747
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94969c199e07d3220800000000000000
+      internalID: 2467252319344486729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 748
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9e1f91c0ee5890800000000000000
+      internalID: -7467284009930810673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 755
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37138d8f1c47f8440800000000000000
+      internalID: 4940295692701151603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 762
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45ca403450e2cc0800000000000000
+      internalID: -3734041255644212025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 483
+        width: 165
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3674702b2455990800000000000000
+      internalID: -7397933480492440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 485
+        width: 163
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839322e75e0d2550800000000000000
+      internalID: 6137577637794780047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 485
+        width: 209
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d85c1ac1f77990800000000000000
+      internalID: -7388170813316736902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 493
+        width: 210
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0de5bd92f44ea0800000000000000
+      internalID: -5889315653517767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 473
+        width: 206
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41e520d862d0ba0800000000000000
+      internalID: -6121193931454671657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 472
+        width: 205
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b1d6e6b39d5960800000000000000
+      internalID: 7592386960582357941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 598
+        width: 177
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13bf792f598a16e0800000000000000
+      internalID: -1866028053780516070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 329
+        width: 211
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0fb05712f4833a0800000000000000
+      internalID: -6685506641715269385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 331
+        width: 235
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991fd69872450acc0800000000000000
+      internalID: -3701866364912406119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 330
+        width: 231
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514fb18e7d65a0f30800000000000000
+      internalID: 4542538659468669973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 320
+        width: 107
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0315b57e80242bf10800000000000000
+      internalID: 2283960567038955824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 319
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad1e204ca0e0980800000000000000
+      internalID: -8570901203861251406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 341
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be766fbf41778550800000000000000
+      internalID: 6163019202407333559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 343
+        width: 160
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750fe97d78f3084a0800000000000000
+      internalID: -6593200001799753641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 347
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d238b646b919446d0800000000000000
+      internalID: -3007118554585922771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 434
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ec575998cac530800000000000000
+      internalID: 3876130990226989583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ce6df1ad391e10800000000000000
+      internalID: 2168832461506529197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec826b2f28e8320800000000000000
+      internalID: 2562129216970215094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 172
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec219e83583f650800000000000000
+      internalID: 6265497986077478617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 175
+        width: 113
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46743bc85a4efd00800000000000000
+      internalID: 1008325111804360270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 171
+        width: 113
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcdc3f1b06ba410800000000000000
+      internalID: 1489390419191910315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 167
+        width: 113
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4bef9488033b80800000000000000
+      internalID: -8416373912913621436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 166
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146d2e081cf71090800000000000000
+      internalID: -8063699427536313322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 168
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b7e61b6dee0aa30800000000000000
+      internalID: 4224639056340745104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 173
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb91d3d826c62930800000000000000
+      internalID: 4118196787931618291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 264
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e3092c0b9e2b80800000000000000
+      internalID: -8417620176978843769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 160
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3df4b035335b20800000000000000
+      internalID: 3121897450009082881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 12
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb80a1e06f9c6010800000000000000
+      internalID: 1183496040542669793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 7
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07ce083d5fc9730800000000000000
+      internalID: 4007348057202782415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 11
+        width: 210
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6895e4dd4f75e0800000000000000
+      internalID: -1909722140201424069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 7
+        width: 207
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0149345f64f8b40800000000000000
+      internalID: 5444648493728927940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 14
+        width: 205
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a1477b2d745ebf0800000000000000
+      internalID: -295751230176355834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3
+        width: 130
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae543a0f28616d60800000000000000
+      internalID: 7881695374119034528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rebellion_character_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4
+        width: 130
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cbba3425988110800000000000000
+      internalID: 1263423678314168938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
